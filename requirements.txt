@@ -1,7 +1,9 @@
 pandas
 numpy
-pymongo
+pymongo[srv]==3.12
+pymango
 certifi
 python-dotenv
+scikit-learn
 
 ##-e .
