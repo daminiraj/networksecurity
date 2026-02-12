@@ -6,5 +6,7 @@ certifi
 python-dotenv
 scikit-learn
 pyyaml
+mlflow
+dagshub
 
 ##-e .
