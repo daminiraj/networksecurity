@@ -1,0 +1,10 @@
+[2026-02-16 14:52:55,119] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-16 14:52:55,126] 107 dagshub - INFO - Accessing as damini.gupta1
+[2026-02-16 14:52:55,481] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/damini.gupta1/networksecurity "HTTP/1.1 200 OK"
+[2026-02-16 14:52:55,791] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-16 14:52:55,794] 107 dagshub - INFO - Initialized MLflow to track repo "damini.gupta1/networksecurity"
+[2026-02-16 14:52:55,794] 107 dagshub - INFO - Repository damini.gupta1/networksecurity initialized!
+[2026-02-16 14:52:55,797] 40 root - INFO - Start data Ingestion
+[2026-02-16 14:52:57,794] 58 root - INFO - performed train test split on the dataframe
+[2026-02-16 14:52:57,854] 68 root - INFO - Exporting train and test file path
+[2026-02-16 14:52:57,854] 43 root - INFO - Data Ingestion completed and artifact: DataIngestionArtifact(trained_file_path='Artifacts\\02_16_2026_14_52_52\\data_ingestion\\ingested\\train.csv', test_file_path='Artifacts\\02_16_2026_14_52_52\\data_ingestion\\ingested\\test.csv')

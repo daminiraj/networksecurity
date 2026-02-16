@@ -1,0 +1,30 @@
+[2026-02-16 13:34:29,556] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-16 13:34:29,569] 107 dagshub - INFO - Accessing as damini.gupta1
+[2026-02-16 13:34:29,946] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/damini.gupta1/networksecurity "HTTP/1.1 200 OK"
+[2026-02-16 13:34:30,278] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-16 13:34:30,279] 107 dagshub - INFO - Initialized MLflow to track repo "damini.gupta1/networksecurity"
+[2026-02-16 13:34:30,280] 107 dagshub - INFO - Repository damini.gupta1/networksecurity initialized!
+[2026-02-16 13:34:30,293] 19 root - INFO - Initiate data ingestion
+[2026-02-16 13:34:30,294] 23 root - INFO - initiate data ingestion
+[2026-02-16 13:34:33,049] 58 root - INFO - performed train test split on the dataframe
+[2026-02-16 13:34:33,108] 68 root - INFO - Exporting train and test file path
+[2026-02-16 13:34:33,109] 26 root - INFO - data initiation completed
+[2026-02-16 13:34:33,139] 33 root - INFO - Required number of columns:2
+[2026-02-16 13:34:33,139] 34 root - INFO - Data frame has columns:31
+[2026-02-16 13:34:33,139] 33 root - INFO - Required number of columns:2
+[2026-02-16 13:34:33,139] 34 root - INFO - Data frame has columns:31
+[2026-02-16 13:34:33,277] 47 root - INFO - initiakisng data transformation pipeline
+[2026-02-16 13:34:33,306] 35 root - INFO - eneter get_data_transform_object of transformation class
+[2026-02-16 13:34:33,306] 38 root - INFO - initialize knn imputer with {'missing_values': nan, 'n_neighbors': 3, 'weights': 'uniform'}
+[2026-02-16 13:34:33,324] 47 root - INFO - Entered save object method of mainutils class
+[2026-02-16 13:34:33,330] 51 root - INFO - Exited save object method of mainutils class
+[2026-02-16 13:34:33,330] 47 root - INFO - Entered save object method of mainutils class
+[2026-02-16 13:34:33,336] 51 root - INFO - Exited save object method of mainutils class
+[2026-02-16 13:34:33,337] 35 root - INFO - Model Training sstared
+[2026-02-16 13:39:04,681] 56 root - INFO - Load saved object method of mainutils class
+[2026-02-16 13:39:04,688] 47 root - INFO - Entered save object method of mainutils class
+[2026-02-16 13:39:04,694] 51 root - INFO - Exited save object method of mainutils class
+[2026-02-16 13:39:04,694] 47 root - INFO - Entered save object method of mainutils class
+[2026-02-16 13:39:04,733] 51 root - INFO - Exited save object method of mainutils class
+[2026-02-16 13:39:04,733] 138 root - INFO - Model trainer artifact: ModelTrainerArtifact(trained_model_file_path='Artifacts\\02_16_2026_13_34_26\\model_trainer\\trained_model\\model.pkl', train_metric_artifact=ClassificationMetricArtifact(f1_score=0.9910931174089069, precision_score=0.9918962722852512, recall_score=0.9902912621359223), test_metric_artifact=ClassificationMetricArtifact(f1_score=0.9743380855397149, precision_score=0.9795249795249795, recall_score=0.9692058346839546))
+[2026-02-16 13:39:04,736] 41 root - INFO - Model Training artifact created

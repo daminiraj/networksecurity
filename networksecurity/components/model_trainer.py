@@ -29,7 +29,10 @@ from sklearn.ensemble import (
 import mlflow
 from urllib.parse import urlparse
 import dagshub
+import httpx
 
+# os.environ['CURL_CA_BUNDLE'] = ""
+# os.environ['PYTHONHTTPSVERIFY'] = "0"
 dagshub.init(repo_owner='damini.gupta1', repo_name='networksecurity', mlflow=True)
 
 

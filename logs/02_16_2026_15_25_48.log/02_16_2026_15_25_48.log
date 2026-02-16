@@ -1,0 +1,12 @@
+[2026-02-16 15:25:54,086] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-16 15:25:54,092] 107 dagshub - INFO - Accessing as damini.gupta1
+[2026-02-16 15:25:54,451] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/damini.gupta1/networksecurity "HTTP/1.1 200 OK"
+[2026-02-16 15:25:54,784] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-16 15:25:54,786] 107 dagshub - INFO - Initialized MLflow to track repo "damini.gupta1/networksecurity"
+[2026-02-16 15:25:54,787] 107 dagshub - INFO - Repository damini.gupta1/networksecurity initialized!
+[2026-02-16 15:26:06,313] 56 root - INFO - Load saved object method of mainutils class
+[2026-02-16 15:26:06,326] 56 root - INFO - Load saved object method of mainutils class
+[2026-02-16 15:26:09,181] 56 root - INFO - Load saved object method of mainutils class
+[2026-02-16 15:26:09,181] 56 root - INFO - Load saved object method of mainutils class
+[2026-02-16 15:26:51,664] 56 root - INFO - Load saved object method of mainutils class
+[2026-02-16 15:26:51,664] 56 root - INFO - Load saved object method of mainutils class

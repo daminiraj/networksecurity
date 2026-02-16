@@ -1,0 +1,10 @@
+[2026-02-12 14:17:12,207] 15 root - INFO - Initiate data ingestion
+[2026-02-12 14:17:12,207] 19 root - INFO - initiate data ingestion
+[2026-02-12 14:17:15,986] 58 root - INFO - performed train test split on the dataframe
+[2026-02-12 14:17:16,076] 68 root - INFO - Exporting train and test file path
+[2026-02-12 14:17:16,077] 22 root - INFO - data initiation completed
+[2026-02-12 14:17:16,141] 33 root - INFO - Required number of columns:2
+[2026-02-12 14:17:16,141] 34 root - INFO - Data frame has columns:31
+[2026-02-12 14:17:16,141] 33 root - INFO - Required number of columns:2
+[2026-02-12 14:17:16,141] 34 root - INFO - Data frame has columns:31
+[2026-02-12 14:17:16,419] 47 root - INFO - initiakisng data transformation pipeline

@@ -7,6 +7,7 @@ print(training_pipeline.PIPELINE_NAME)
 
 class TrainingPipelineConfig:
     def __init__(self, timestamp=datetime.now()):
+        print("i am hereeeeeee")
         timestamp = timestamp.strftime("%m_%d_%Y_%H_%M_%S")
         self.pipeline = training_pipeline.PIPELINE_NAME,
         self.artifact_name = training_pipeline.ARTIFACT_DIR

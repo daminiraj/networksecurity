@@ -1,0 +1,14 @@
+[2026-02-12 14:26:27,843] 15 root - INFO - Initiate data ingestion
+[2026-02-12 14:26:27,843] 19 root - INFO - initiate data ingestion
+[2026-02-12 14:26:29,716] 58 root - INFO - performed train test split on the dataframe
+[2026-02-12 14:26:29,772] 68 root - INFO - Exporting train and test file path
+[2026-02-12 14:26:29,773] 22 root - INFO - data initiation completed
+[2026-02-12 14:26:29,811] 33 root - INFO - Required number of columns:2
+[2026-02-12 14:26:29,811] 34 root - INFO - Data frame has columns:31
+[2026-02-12 14:26:29,811] 33 root - INFO - Required number of columns:2
+[2026-02-12 14:26:29,812] 34 root - INFO - Data frame has columns:31
+[2026-02-12 14:26:29,956] 47 root - INFO - initiakisng data transformation pipeline
+[2026-02-12 14:26:29,992] 35 root - INFO - eneter get_data_transform_object of transformation class
+[2026-02-12 14:26:29,992] 38 root - INFO - initialize knn imputer with {'missing_values': nan, 'n_neighbors': 3, 'weights': 'uniform'}
+[2026-02-12 14:26:30,014] 39 root - INFO - Entered save object method of mainutils class
+[2026-02-12 14:26:30,020] 43 root - INFO - Exited save object method of mainutils class

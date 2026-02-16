@@ -1,0 +1,12 @@
+[2026-02-12 14:23:04,937] 15 root - INFO - Initiate data ingestion
+[2026-02-12 14:23:04,938] 19 root - INFO - initiate data ingestion
+[2026-02-12 14:23:07,220] 58 root - INFO - performed train test split on the dataframe
+[2026-02-12 14:23:07,282] 68 root - INFO - Exporting train and test file path
+[2026-02-12 14:23:07,282] 22 root - INFO - data initiation completed
+[2026-02-12 14:23:07,319] 33 root - INFO - Required number of columns:2
+[2026-02-12 14:23:07,319] 34 root - INFO - Data frame has columns:31
+[2026-02-12 14:23:07,319] 33 root - INFO - Required number of columns:2
+[2026-02-12 14:23:07,320] 34 root - INFO - Data frame has columns:31
+[2026-02-12 14:23:07,450] 47 root - INFO - initiakisng data transformation pipeline
+[2026-02-12 14:23:07,480] 35 root - INFO - eneter get_data_transform_object of transformation class
+[2026-02-12 14:23:07,480] 38 root - INFO - initialize knn imputer with {'missing_values': nan, 'n_neighbors': 3, 'weights': 'uniform'}
